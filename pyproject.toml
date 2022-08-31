@@ -2,7 +2,7 @@
 name = "repl_python3_sushi"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["ciel <contact@cieldev.net>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
